@@ -1,0 +1,8 @@
+task
+*.o
+*~
+key.*
+letter
+/build
+.gradle
+.idea
